@@ -37,8 +37,8 @@ A little bit about myself:
 
 <div style="display: inline_block">
  
-<a href="https://www.linkedin.com/in/lucas-zillig/"> 
-<img align="center" alt="Felipe-CSS" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
+<a href="https://www.linkedin.com/in/lucas-zillig/" target="_blank"> 
+<img align="center" alt="LinkedIn" height="30" width="40" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg">
 </a>
 
 </div>
