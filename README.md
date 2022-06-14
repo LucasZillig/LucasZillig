@@ -4,11 +4,11 @@
 **LucasZillig/LucasZillig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Lucas and I'm currently a BIE Intern at Amazon and a Information Systems student at ESPM, where I research about Machine Learning and Natural Language Processing in my bachelor's thesis.
+My name is Lucas and I'm currently a Tech U resident at AWS and a Information Systems student at ESPM, where I research about Machine Learning and Natural Language Processing in my bachelor's thesis.
 
 A little bit about myself:
 
-- 🔭 I’m currently working on different Data Engineering and Data Visualization projects at Amazon and my bachelor's thesis.
+- 🔭 I’m currently working on different cloud projects as part of my cohort at AWS and my bachelor's thesis.
 - 🌱 I’m currently learning different NLP techniques and some MLOps concepts.
 - 💬 Ask me about Machine Learning, Python, rock, games, and sports.
 - 😄 Pronouns: he/him.
